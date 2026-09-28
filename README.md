@@ -124,6 +124,7 @@ If GitHub succeeds and Tangled fails, the local commit remains safe and the GitH
 
 ```
 README.md                 Detailed project documentation
+LICENSE                   MIT License
 AGENTS-mirror.md          Instructions for coding agents and contributors
 forge_sync.py             Cross-platform Python prototype
 KnotBridge.ps1            Windows PowerShell wrapper
@@ -727,4 +728,8 @@ The project does not guarantee atomic synchronization between GitHub and Tangled
 
 ## License
 
-Choose and add a license before public distribution. Until then, treat this repository as an experimental prototype and do not assume that reuse rights are granted.
+KnotBridge is released under the **MIT License**. You may use, copy, modify,
+merge, publish, distribute, sublicense, and sell copies of the software,
+subject to the conditions in the [LICENSE](LICENSE) file.
+
+Copyright (c) 2026 **ABHIRAM-CREATOR06**.
